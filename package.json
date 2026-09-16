@@ -1,0 +1,9 @@
+{
+"name": "williams-power-infinity",
+"version": "1.0.0",
+"private": true,
+"type": "commonjs",
+"dependencies": {
+"stripe": "^18.5.0"
+}
+}
